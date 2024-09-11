@@ -22,5 +22,5 @@ Make sure you have the following installed on your machine:
 ### Setup
 1. Clone the repository from GitHub:
    ```bash
-   git clone https://github.com/yourusername/number-to-lcd.git
+   git clone https://github.com/rahasingh01/gravitee_assignment.git
    cd number-to-lcd
